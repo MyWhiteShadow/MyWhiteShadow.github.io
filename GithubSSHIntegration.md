@@ -5,20 +5,21 @@ description: Пошаговая инструкция по подключению
 ---
 <dl>
   <dt>Дата публикации</dt>
-  <dd>06.03.2026</dd>
-
-  <div style="display: flex; justify-content: flex-end; margin: 2rem 0;">
+  <dd style="display: flex; justify-content: space-between; align-items: center; gap: 1.5rem;">
+    <span>06.03.2026</span>
+    
     <a href="./" style="
-        color: #444;
-        text-decoration: none;
-        font-size: 1.1rem;
-        padding: 0.6rem 1.2rem;
-        border: 1px solid #ddd;
-        border-radius: 8px;
-        background: white;
-        transition: 0.18s;
+      color: #444;
+      text-decoration: none;
+      font-size: 1.1rem;
+      padding: 0.5rem 1.1rem;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      background: white;
+      transition: all 0.18s ease;
+      white-space: nowrap;
     ">← Назад</a>
-    </div>
+  </dd>
 </dl>
 
 
