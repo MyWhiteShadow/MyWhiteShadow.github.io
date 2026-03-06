@@ -2,6 +2,8 @@
 layout: default
 title: 🎯 GIT + SSH ключ на Windows 11 
 description: Пошаговая инструкция по подключению к GitHub через SSH (2024–2025)
+tag: SSH+GIT
+author: WhiteShadow
 ---
 
 ![SSH](image.png)
