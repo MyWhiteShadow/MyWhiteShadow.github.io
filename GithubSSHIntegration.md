@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 🎯 GIT + SSH ключ на Windows 11 
-description: Пошаговая инструкция по подключению к GitHub через SSH (2024–2025)
+description: Пошаговая инструкция по подключению к GitHub через SSH
 ---
 <div style="
   display: flex;
