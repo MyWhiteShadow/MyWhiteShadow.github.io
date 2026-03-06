@@ -23,7 +23,7 @@ description: Пошаговая инструкция по подключению
       transition: all 0.2s;
       font-size: 0.95rem;
       white-space: nowrap;
-    ">← Назад</a>
+    ">Назад</a>
   </div>
 </div>
 
