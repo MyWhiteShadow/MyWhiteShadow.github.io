@@ -11,17 +11,15 @@ description: Пошаговая инструкция по подключению
   margin: 1.5rem 0;
   font-size: 1.1rem;
 ">
-  <strong style="font-weight: 600; color: #222;">Дата публикации: 06.03.2026</strong>
+  <time datetime="2026-03-06" style="color: #444;">06.03.2026</time>
   
-  <div style="display: flex; align-items: Center; gap: 1.8rem;">
+  <div style="display: flex; align-items: center; gap: 1.8rem;">
+    
     
     <a href="./" style="
       color: #1e40af;
       text-decoration: none;
       padding: 0.45rem 1rem;
-      border: 1px solid #bfdbfe;
-      border-radius: 6px;
-      background: #eff6ff;
       transition: all 0.2s;
       font-size: 0.95rem;
       white-space: nowrap;
