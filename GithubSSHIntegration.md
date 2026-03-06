@@ -13,9 +13,9 @@ description: Пошаговая инструкция по подключению
 ">
   <time datetime="2026-03-06" style="color: #444;">06.03.2026</time>
   
+  <span style="color: #444; font-weight: normal;">MyWhiteShadow</span>
+  
   <div style="display: flex; align-items: center; gap: 1.8rem;">
-    
-    
     <a href="./" style="
       color: #1e40af;
       text-decoration: none;
