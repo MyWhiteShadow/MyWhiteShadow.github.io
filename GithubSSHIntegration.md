@@ -71,5 +71,3 @@ Start-Service ssh-agent
 ```bash
 Bashgit clone git@github.com:username/repository.git
 ```
-
-[back](./)
