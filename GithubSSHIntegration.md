@@ -3,40 +3,32 @@ layout: default
 title: 🎯 GIT + SSH ключ на Windows 11 
 description: Пошаговая инструкция по подключению к GitHub через SSH (2024–2025)
 ---
-<dl style="margin: 1.5rem 0;">
-  <dt style="
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    gap: 1.5rem;
-    font-weight: 500;
-    color: #333;
-  ">
-    <span>Дата публикации:</span>
+<div style="
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 2rem;
+  margin: 1.5rem 0;
+  font-size: 1.1rem;
+">
+  <strong style="font-weight: 600; color: #222;">Дата публикации:</strong>
+  
+  <div style="display: flex; align-items: center; gap: 1.8rem;">
+    <time datetime="2026-03-06" style="color: #444;">06.03.2026</time>
     
     <a href="./" style="
-      color: #374151;
+      color: #1e40af;
       text-decoration: none;
-      font-size: 1rem;
-      padding: 0.5rem 1.1rem;
-      border: 1px solid #d1d5db;
+      padding: 0.45rem 1rem;
+      border: 1px solid #bfdbfe;
       border-radius: 6px;
-      background: #ffffff;
-      transition: all 0.18s ease;
+      background: #eff6ff;
+      transition: all 0.2s;
+      font-size: 0.95rem;
       white-space: nowrap;
-      line-height: 1.4;
-      flex-shrink: 0;
     ">← Назад</a>
-  </dt>
-  
-  <dd style="
-    margin: 0.4rem 0 0 0;
-    font-size: 1.05rem;
-    color: #111;
-  ">
-    <time datetime="2026-03-06">06.03.2026</time>
-  </dd>
-</dl>
+  </div>
+</div>
 
 
 ![SSH](image.png)
