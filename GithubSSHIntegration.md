@@ -4,7 +4,21 @@ title: 🎯 GIT + SSH ключ на Windows 11
 description: Пошаговая инструкция по подключению к GitHub через SSH (2024–2025)
 ---
 <dl>
-<dt>06.03.2026</dt>
+  <dt>Дата публикации</dt>
+  <dd>06.03.2026</dd>
+
+  <div style="display: flex; justify-content: flex-end; margin: 2rem 0;">
+    <a href="./" style="
+        color: #444;
+        text-decoration: none;
+        font-size: 1.1rem;
+        padding: 0.6rem 1.2rem;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        background: white;
+        transition: 0.18s;
+    ">← Назад</a>
+    </div>
 </dl>
 
 
