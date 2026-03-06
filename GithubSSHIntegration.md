@@ -1,13 +1,10 @@
 ---
 layout: default
-title: Инструкция по добавлению SSH-ключа в GitHub
-description: Тут будет рассказано как связать SSH-ключ компьютера с Github.com
+title: 🎯 GIT + SSH ключ на Windows 11 
+description: Пошаговая инструкция по подключению к GitHub через SSH (2024–2025)
 ---
 
-# 🎯 GIT + SSH ключ на Windows 11  
-Пошаговая инструкция по подключению к GitHub через SSH (2024–2025)
-
-
+![SSH](image.png)
 
 ## 1. Генерируем современный SSH-ключ
 
